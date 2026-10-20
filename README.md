@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Oscar 👋
 
 ### Firmware & Embedded Systems Engineer | IoT · Edge AI · Cloud Integration
 
